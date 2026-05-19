@@ -39,8 +39,8 @@ The project was developed to enhance practical knowledge in:
 Use the following credentials for testing the login page:
 
 ```text
-Username: demo_user
-Password: demo123
+Username: codd.demo
+Password: codd.demopass
 ```
 
 These credentials are provided only for demonstration purposes.
@@ -54,11 +54,9 @@ https://sivaviswanathan3.github.io/CODD_GP/
 
 ## 👨‍💻 Developed By
 
-Sivaraman
+Sivaraman V
 BE Mechanical Engineering
-Blockchain & Flutter Enthusiast
 
-Internship Project at GODDGP
 
 ## Note
 
